@@ -1,0 +1,328 @@
+.boddy {
+  width: 1200px !important;
+  font-family: "Times New Roman" !important;
+}
+.pravki {
+  display: none;
+}
+.prava {
+  display: none;
+}
+
+.kartochki {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 250px 250px 250px;
+  gap: 70px;
+  padding: 50px;
+}
+.text11 {
+  background-color: rgb(180, 180, 180);
+  font-size: 40px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.vxod_poli_imp1 {
+  background-color: #ffffff;
+  text-align: center;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  color: #000000;
+}
+.zakaz {
+  margin-top: 20px;
+  color: #575757;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  border-bottom: none;
+}
+.zakaz:hover {
+  border-bottom: 2px solid #d4d4d4;
+  background-color: #5e5e5f;
+  border: none;
+  border-radius: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  border-bottom: none;
+}
+.zakaz:active {
+  background-color: #434345;
+  color: #ffffff;
+  border-radius: 25px;
+  border: none;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton111-heder {
+  color: #575757;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  border-bottom: none;
+}
+.buton111-heder:hover {
+  border-bottom: 2px solid #d4d4d4;
+  background-color: #5e5e5f;
+  border: none;
+  border-radius: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton111-heder:active {
+  background-color: #434345;
+  color: #ffffff;
+  border-radius: 25px;
+  border: none;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton1112-heder {
+  color: #575757;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  border-bottom: none;
+}
+.buton1112-heder:hover {
+  border-bottom: 2px solid #d4d4d4;
+  background-color: #5e5e5f;
+  border: none;
+  border-radius: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton1112-heder:active {
+  background-color: #434345;
+  color: #ffffff;
+  border-radius: 25px;
+  border: none;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton1111-heder {
+  color: #0f0f0f;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.buton1111-heder:hover {
+  border-bottom: 2px solid #d4d4d4;
+  background-color: #5e5e5f;
+  border-radius: 20px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.buton1111-heder:active {
+  background-color: #434345;
+  color: #ffffff;
+  border-radius: 25px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton1-heder {
+  color: #fff;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.buton1-heder:hover {
+  border-bottom: 2px solid #d4d4d4;
+  color: #a0a0a0;
+  text-decoration: none;
+}
+.buton1-heder:active {
+  background-color: #434345;
+  border-radius: 5px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.hed {
+  background-color: rgb(63, 63, 63);
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.inghed {
+  width: 50px;
+  height: 100px;
+  display: flex;
+  justify-content: left;
+}
+.text {
+  margin-top: 30px;
+  display: flex;
+  gap: 90px;
+}
+
+.hh22 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(180, 180, 180);
+}
+.vidio {
+  display: flex;
+  gap: 50px;
+  background-color: rgb(206, 206, 206);
+}
+.lozyng {
+  text-align: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.novi {
+  text-align: center;
+  background-color: rgb(180, 180, 180);
+  font-size: 30px;
+}
+.karninka {
+  background: url(./Images/aalto.jpg) !important;
+  width: 1200px !important;
+  height: 600px !important;
+  background-color: rgb(180, 180, 180) !important;
+}
+.karusel {
+  width: 550px !important;
+  margin-left: 300px;
+}
+.carousel {
+}
+.slide {
+}
+.carousel-fade {
+}
+.carousel-inner {
+}
+.carousel-item {
+}
+.active {
+}
+.d-block {
+}
+.w-100 {
+}
+.carousel-control-prev {
+}
+.carousel-control-prev-icon {
+}
+.visually-hidden {
+}
+.carousel-control-next {
+}
+.carousel-control-next-icon {
+}
+.foooter {
+  background-color: rgb(206, 206, 206);
+}
+.foter {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+.foter1 {
+}
+.foter2 {
+}
+.textfoter1 {
+}
+.textfoter2 {
+}
+.textfoter3 {
+}
+.textfoter4 {
+}
+.textfoter5 {
+}
+
+.kartochki {
+  background-color: rgb(180, 180, 180);
+}
+.card {
+  border-radius: 10px !important;
+}
+.card-img-top {
+  border-radius: 10px !important;
+}
+.card-body {
+}
+.card-title {
+}
+.card-text {
+}
+.btn {
+}
+.btn-primary {
+  background-color: #434345 !important;
+  border: none !important;
+}
+.btn-primary:active {
+  background-color: #434345 !important;
+  border-color: gray !important;
+  box-shadow: none !important;
+}
+.pravki {
+  margin-top: 10px;
+}
+.podrobnie {
+  display: flex;
+  padding: 50px;
+}
+.img {
+}
+.imggg {
+  width: 400px;
+  margin-right: 300px !important;
+}
+.text1 {
+  font-size: 30px;
+  margin-left: 100px;
+}
+.text2 {
+  width: 300px;
+}
+.text8 {
+  display: grid !important;
+  justify-content: center !important;
+  margin-right: 300px !important;
+}

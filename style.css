@@ -1,0 +1,204 @@
+.boddy {
+  width: 1200px !important;
+  font-family: "Times New Roman" !important;
+}
+.buton12-heder {
+  color: #e0e0e0;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: none;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.buton12-heder:hover {
+  border-bottom: 2px solid #d4d4d4;
+  color: #a0a0a0;
+  text-decoration: none;
+}
+.buton12-heder:active {
+  background-color: #434345;
+  border-radius: 5px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton1-heder {
+  color: #fff;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.buton1-heder:hover {
+  border-bottom: 2px solid #d4d4d4;
+  color: #a0a0a0;
+  text-decoration: none;
+}
+.buton1-heder:active {
+  background-color: #434345;
+  border-radius: 5px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton11-heder {
+  color: #575757;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.buton11-heder:hover {
+  background-color: #434345;
+  border-radius: 20px;
+  border-bottom: 2px solid #000000;
+  color: #ffffff;
+  text-decoration: none;
+}
+.buton11-heder:active {
+  background-color: #434345;
+  border-radius: 25px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.buton122-heder {
+  color: #575757;
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  /* height: 87px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.buton122-heder:hover {
+  background-color: #434345;
+  border-radius: 20px;
+  border-bottom: 2px solid #000000;
+  color: #ffffff;
+  text-decoration: none;
+}
+.buton122-heder:active {
+  background-color: #434345;
+  border-radius: 25px;
+  text-decoration: none;
+  border-bottom: none;
+}
+.hed {
+  background-color: rgb(63, 63, 63);
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.inghed {
+  width: 50px;
+  height: 100px;
+  display: flex;
+  justify-content: left;
+}
+.text {
+  margin-top: 30px;
+  display: flex;
+  gap: 90px;
+}
+
+.hh22 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(180, 180, 180);
+}
+.vidio {
+  display: flex;
+  gap: 50px;
+  background-color: rgb(206, 206, 206);
+}
+.lozyng {
+  text-align: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.novi {
+  text-align: center;
+  background-color: rgb(180, 180, 180);
+  font-size: 30px;
+}
+.karninka {
+  background: url(./Images/aalto.jpg) !important;
+  width: 1200px !important;
+  height: 600px !important;
+  background-color: rgb(180, 180, 180) !important;
+}
+.karusel {
+  width: 550px !important;
+  margin-left: 300px;
+}
+.carousel {
+}
+.slide {
+}
+.carousel-fade {
+}
+.carousel-inner {
+}
+.carousel-item {
+}
+.active {
+}
+.d-block {
+}
+.w-100 {
+}
+.carousel-control-prev {
+}
+.carousel-control-prev-icon {
+}
+.visually-hidden {
+}
+.carousel-control-next {
+}
+.carousel-control-next-icon {
+}
+.foooter {
+  background-color: rgb(206, 206, 206);
+}
+.foter {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+.foter1 {
+}
+.foter2 {
+}
+.textfoter1 {
+}
+.textfoter2 {
+}
+.textfoter3 {
+}
+.textfoter4 {
+}
+.textfoter5 {
+}
